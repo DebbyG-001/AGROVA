@@ -1,0 +1,542 @@
+{
+  "total_chunks": 67,
+  "has_embeddings": false,
+  "chunks": [
+    {
+      "source": "cattle_health_and_management.md",
+      "page": 1,
+      "title": "Cattle: Health and Management in West Africa",
+      "content": "# Cattle: Health and Management in West Africa\nScope: cattle such as Bunaji (White Fulani), N'Dama and crosses, in smallholder, agropastoral and feedlot settings. Original summary of the sources named in each section; a vet must confirm disease and dosing.",
+      "id": "chunk_1",
+      "embedding": null
+    },
+    {
+      "source": "cattle_health_and_management.md",
+      "page": 1,
+      "title": "Cattle: Foot-and-mouth disease (FMD)",
+      "content": "## Cattle: Foot-and-mouth disease (FMD)\nFarmer words: cattle dey drool, mouth and leg get blisters, dem dey limp, dem no dey chop, tongue sore, teat sore.\n- Signs: fever, blister-like sores in the mouth, nose, teats, between the claws and at the top of the hoof; drooling, lameness, tooth grinding. Deaths are low in adults but higher in calves.\n- Spread: direct contact with sick animals, and contaminated secretions. African buffalo can maintain the virus.\n- No cure. Care means wound cleaning and antibiotics for secondary infection, given by a vet. Inactivated vaccines exist, but protection between virus strains is limited and cold chain is a problem.\n- Action: isolate affected animals, stop movement and trading, and report suspected FMD to the veterinary authority.\n(Source: Mwacalimba et al. 2025, Animals 15(1):97.)",
+      "id": "chunk_2",
+      "embedding": null
+    },
+    {
+      "source": "cattle_health_and_management.md",
+      "page": 1,
+      "title": "Cattle: Contagious bovine pleuropneumonia (CBPP, lung sickness)",
+      "content": "## Cattle: Contagious bovine pleuropneumonia (CBPP, lung sickness)\nFarmer words: cattle dey cough, e dey breathe hard, fever, chest pain, thin calf, joints dey swell.\n- Signs: pneumonia with fluid around the lungs. Acute cases have high fever and laboured breathing; chronic cases cough and lose condition. Young calves may have swollen joints. Some animals carry it without signs.\n- Spread: breathing in droplets from coughing animals, mainly with close repeated contact; chronic carriers and cattle movements and gatherings spread it.\n- Control: vaccines (T1/44 and T1sr) give variable protection, reported at 30 to 60%, and T1/44 can cause reactions. Antibiotics such as tylosin or oxytetracycline reduce signs but do not fully cure. Movement control matters, but is hard with pastoral herds.\n- FAO and WOAH describe CBPP as essentially confined to Africa, reported in around 18 countries in 2019. Guidance on control is old (2003).\n(Sources: Mwacalimba et al. 2025; FAO and WOAH CBPP documents. See SOURCES.md.)",
+      "id": "chunk_3",
+      "embedding": null
+    },
+    {
+      "source": "cattle_health_and_management.md",
+      "page": 1,
+      "title": "Cattle: Lumpy skin disease (LSD)",
+      "content": "## Cattle: Lumpy skin disease (LSD)\nFarmer words: lumps dey show for cattle skin, skin get boil-like swelling, eye dey water, fever, leg dey swell.\n- Signs: fever, watery eyes, nasal discharge, depression, then firm skin nodules about 1 to 7 cm that can ulcerate and leave permanent hide damage. Complications include eye damage, pneumonia and maggot infestation. Recovery can take months.\n- Spread: mainly biting insects (peaks in warm, wet weather), also lesions, secretions, contaminated feed and water, and moving infected animals.\n- No specific treatment: wound care, anti-inflammatories and antibiotics for secondary infection, by a vet. Control is early identification, quarantine, movement control and vaccination (live vaccines such as Neethling and KS-1 are widely used and can cause reactions).\n- Action: isolate cattle with lumps, control flies, and report to the veterinary authority.\n(Source: Mwacalimba et al. 2025; FAO LSD webinars.)",
+      "id": "chunk_4",
+      "embedding": null
+    },
+    {
+      "source": "cattle_health_and_management.md",
+      "page": 1,
+      "title": "Cattle: Rift Valley fever (RVF)",
+      "content": "## Cattle: Rift Valley fever (RVF)\n- Signs: \"abortion storms\" in pregnant animals and deaths of newborns; calves show fever, loss of appetite, diarrhoea and jaundice. Adults often show no signs. Deaths are usually under 10% in cattle but can reach 100% in newborn ruminants.\n- Spread: mosquitoes; also direct contact with infected tissues, aborted material and fluids. Humans can be infected, so avoid handling abortions without gloves and protection.\n- No specific treatment. Vaccination is used during outbreaks; vector control targets mosquito breeding sites.\n(Source: Mwacalimba et al. 2025.)",
+      "id": "chunk_5",
+      "embedding": null
+    },
+    {
+      "source": "cattle_health_and_management.md",
+      "page": 1,
+      "title": "Cattle: Bovine respiratory disease (BRD) and new arrivals",
+      "content": "## Cattle: Bovine respiratory disease (BRD) and new arrivals\n- Signs: high fever, depression, nose and eye discharge, coughing, fast or laboured breathing.\n- Triggers: stress from weaning, transport, and mixing animals from different sources; shared water troughs between pens can spread virus.\n- Prevention: quarantine new arrivals for 2 to 3 weeks, vaccinate and deworm before entry (preconditioning), reduce stress. Antibiotics are chosen and dosed by a vet.\n(Source: Mwacalimba et al. 2025.)",
+      "id": "chunk_6",
+      "embedding": null
+    },
+    {
+      "source": "cattle_health_and_management.md",
+      "page": 1,
+      "title": "Cattle: Trypanosomiasis (nagana) and tsetse",
+      "content": "## Cattle: Trypanosomiasis (nagana) and tsetse\nFarmer words: cattle dey thin, dey weak, belly dey go down, tsetse fly dey bite, eyelid pale, hair dey stand.\n- Signs: loss of condition, emaciation, anaemia, reduced milk and meat; deaths can reach 50 to 100% within months in exposed susceptible cattle. Tsetse flies carry it.\n- Control: tsetse control (traps, insecticide treatment), treatment with trypanocide drugs under vet guidance, and trypanotolerant breeds such as N'Dama. There is no vaccine. Drug resistance is spreading, so use trypanocides only as directed and avoid under-dosing.\n(Sources: ILRI and CGIAR trypanosomiasis reviews; see SOURCES.md.)",
+      "id": "chunk_7",
+      "embedding": null
+    },
+    {
+      "source": "cattle_health_and_management.md",
+      "page": 1,
+      "title": "Cattle: Tick-borne disease",
+      "content": "## Cattle: Tick-borne disease\nTick-borne diseases, including heartwater, are common in cattle in the subhumid zone and take a heavy toll on susceptible animals. Regular tick control (dipping or spraying on a vet-advised schedule) matters, especially for imported or crossbred cattle. This knowledge base has limited detail on specific tick-borne treatments, so recommend a vet visit.\n(Source: FAO review of cattle diseases in the subhumid zone.)",
+      "id": "chunk_8",
+      "embedding": null
+    },
+    {
+      "source": "cattle_health_and_management.md",
+      "page": 1,
+      "title": "Cattle: Bunaji (White Fulani) performance and feed in northern Nigeria",
+      "content": "## Cattle: Bunaji (White Fulani) performance and feed in northern Nigeria\n- Benchmarks from a 12-year on-farm study (1979 to 1990, four subhumid sites): birth weight about 19.6 kg; 76 kg at 9 months; 93 kg at 12 months; age at first calving about 62 months; calving interval about 22.5 months; milk taken for people about 0.5 litre per day (200 to 260 litres per lactation).\n- Calf deaths were about 14 to 15% by 9 to 12 months. Calves born in the late wet and early dry season grew and survived best.\n- A more recent Oyo State survey found low milk (about 0.6 kg/day), low pregnancy and calving rates, and that low milk, soil-eating and diarrhoea were the commonest problems. About 84% of agropastoralists treated animals themselves with herbs and only about 6% used a vet.\n- Dry season (5 to 7 months in the Sudano-Sahelian zone) is the main feed constraint. Supplementing Bunaji cows with cottonseed cake in the dry season has been tested for milk and calf growth.\n(Sources: ILRI on-farm Bunaji studies; Livestock Research for Rural Development 21(5). See SOURCES.md.)",
+      "id": "chunk_9",
+      "embedding": null
+    },
+    {
+      "source": "cattle_health_and_management.md",
+      "page": 1,
+      "title": "Cattle: Gaps in this knowledge base",
+      "content": "## Cattle: Gaps in this knowledge base\nThis knowledge base does not yet give a reliable protocol for mastitis, calf rearing, vaccination schedules or dosing. For these, please contact a vet or the state veterinary office.",
+      "id": "chunk_10",
+      "embedding": null
+    },
+    {
+      "source": "FAO_Poultry_Diseases_and_Management.md",
+      "page": 1,
+      "title": "FAO Animal Health Manual: Poultry Diseases, Symptoms, and Management in Tropical Climates",
+      "content": "# FAO Animal Health Manual: Poultry Diseases, Symptoms, and Management in Tropical Climates",
+      "id": "chunk_11",
+      "embedding": null
+    },
+    {
+      "source": "FAO_Poultry_Diseases_and_Management.md",
+      "page": 1,
+      "title": "1. Coccidiosis in Poultry (Broilers & Layers)",
+      "content": "## 1. Coccidiosis in Poultry (Broilers & Layers)\n### Overview & Symptoms:\nCoccidiosis is an intestinal parasitic disease caused by Eimeria protozoa. It is one of the most common and devastating diseases in tropical broiler farming.\n- **Common Farmer Observations / Field Signs**:\n- Birds not eating or severe drop in feed intake (\"birds no dey chop\").\n- Droopiness, huddled posture near heat sources or corners, ruffled feathers, pale combs and wattles.\n- Watery droppings, bloody diarrhea, or mucus in feces.\n- Increased thirst and dehydration.\n- Wet litter around drinkers.\n- **Predisposing Factors**: Wet, warm, and humid litter conditions; poor ventilation; high stocking density; uncleaned drinker spillages.\n### Treatment and Immediate Actions:\n1. **Immediate Medication**: Administer approved anticoccidial medications via drinking water immediately upon symptom onset. Common treatments include:\n- Amprolium (0.024% in drinking water for 5-7 days)\n- Toltrazuril (e.g., Baycox, 7 mg/kg body weight for 2 consecutive days)\n- Sulfonamides (e.g., Sulfaquinoxaline or Sulfaclozine) under veterinary guidance.\n2. **Supportive Therapy**: Provide fat-soluble vitamins (Vitamin A and Vitamin K) and electrolytes in water to promote gut epithelial healing and reduce blood loss.\n3. **Litter Management**: Remove and replace all wet, caked litter immediately. Keep litter moisture below 25%.\n### Prevention & Biosecurity:\n- Use coccidiostats in commercial starter and grower feed.\n- Ensure nipple or bell drinkers do not leak.\n- Practice strict \"all-in, all-out\" batch management with a minimum 14-day downtime between batches for pen disinfection.\n---",
+      "id": "chunk_12",
+      "embedding": null
+    },
+    {
+      "source": "FAO_Poultry_Diseases_and_Management.md",
+      "page": 1,
+      "title": "2. Newcastle Disease (ND)",
+      "content": "## 2. Newcastle Disease (ND)\n### Symptoms:\n- Respiratory distress: gasping, coughing, rattling sounds (rales).\n- Nervous signs: twisted neck (torticollis), tremors, paralysis of legs or wings.\n- Greenish watery diarrhea, sudden high mortality (up to 90-100% in unvaccinated flocks), sharp drop in egg production with soft-shelled eggs.\n### Control & Management:\n- No effective curative treatment for viral infection.\n- Strict vaccination protocol: NDV Hitchner B1 / LaSota (at Day 1-3, Day 14-21, Day 28, and every 6-8 weeks for layers).\n- Immediate quarantine of suspected birds and veterinary notification.\n---",
+      "id": "chunk_13",
+      "embedding": null
+    },
+    {
+      "source": "FAO_Poultry_Diseases_and_Management.md",
+      "page": 1,
+      "title": "3. Infectious Bursal Disease (Gumboro / IBD)",
+      "content": "## 3. Infectious Bursal Disease (Gumboro / IBD)\n### Symptoms:\n- Sudden onset in chicks between 3 to 6 weeks of age.\n- Severe whitish/watery diarrhea, soiled vent feathers, vent picking, trembling, prostration.\n- High mortality spike lasting 5 to 7 days before subsiding.\n### Management:\n- Administer Gumboro IBD intermediate or intermediate-plus strain vaccines at Day 10-14 and booster at Day 21.\n- Provide electrolytes and kidney-flushing solutions (e.g., vinegar/citric acid solutions or herbal kidney protectors) in drinking water during outbreaks.\n---",
+      "id": "chunk_14",
+      "embedding": null
+    },
+    {
+      "source": "FAO_Poultry_Diseases_and_Management.md",
+      "page": 1,
+      "title": "4. Heat Stress in Tropical Poultry Production",
+      "content": "## 4. Heat Stress in Tropical Poultry Production\n### Symptoms:\n- Rapid panting with open beaks, wings held away from the body.\n- Extreme drop in feed consumption, accompanied by a massive increase in water intake.\n- Watery droppings caused by excess water consumption.\n- Thin eggshells in layers and sudden death during hot afternoons.\n### Management:\n- Shift feeding times to cooler hours (early morning 5:00 AM - 8:00 AM and late evening after 6:00 PM).\n- Add Vitamin C (Ascorbic Acid) and electrolytes/sodium bicarbonate to drinking water.\n- Ensure cool drinking water and optimize natural ventilation in open-sided housing.",
+      "id": "chunk_15",
+      "embedding": null
+    },
+    {
+      "source": "fish_catfish_pond_culture.md",
+      "page": 1,
+      "title": "African Catfish (Clarias gariepinus): Pond Farming in Sub-Saharan Africa",
+      "content": "# African Catfish (Clarias gariepinus): Pond Farming in Sub-Saharan Africa\nOriginal summary of De Graaf and Janssen (1996), FAO Fisheries Technical Paper 362, \"Artificial reproduction and pond rearing of the African catfish Clarias gariepinus in sub-Saharan Africa: a handbook\", drawn from FAO field projects in the Central African Republic, Congo, Kenya and Nigeria. Figures are from that 1996 handbook and trial conditions; local results vary.",
+      "id": "chunk_16",
+      "embedding": null
+    },
+    {
+      "source": "fish_catfish_pond_culture.md",
+      "page": 1,
+      "title": "Catfish: Pond preparation, liming and fertilising for fry",
+      "content": "## Catfish: Pond preparation, liming and fertilising for fry\nFarmer words: catfish pond, fry, fingerlings, how to prepare pond, lime, manure.\n- Dry the pond bottom for a few days after cleaning to kill predators and help nutrients release.\n- Liming (per 100 m2): quicklime 7 to 10 kg, slaked lime 7 to 13 kg, or agricultural lime 20 to 30 kg. Aim for pH 7 to 9 with enough alkalinity to keep pH stable.\n- Fertilise: chicken manure about 50 kg per 100 m2 one week before stocking (Congo); or 10 to 20 kg manure per 100 m2 (Central African Republic). Chemical fertilisers such as superphosphate, urea or NPK 15:15:15 should be dissolved before spreading.\n- Plankton density about 1.5 to 2 ml per 100 litres and a Secchi (clear-water) reading of 20 to 25 cm were used as targets in Congo; pond depth about 0.8 m for nursery ponds.\n(Source: FAO Fisheries Technical Paper 362, chapter 5.)",
+      "id": "chunk_17",
+      "embedding": null
+    },
+    {
+      "source": "fish_catfish_pond_culture.md",
+      "page": 1,
+      "title": "Catfish: Nursing fry and feeding fingerlings",
+      "content": "## Catfish: Nursing fry and feeding fingerlings\n- Stock 3-day-old larvae at 70 to 100 per m2 in protected ponds (traditional guideline 100 per m2). Higher numbers have been used (up to 250 per m2 in Nigeria; 278 per m2 in small covered Kenyan ponds, which gave about 32% survival to 0.3 g fingerlings).\n- Week 1: live zooplankton is the key food. Bran (rice or wheat), sieved fine, 1 to 2 kg per 100 m2 per day.\n- Formulated feed per 100 m2 per day, in two equal portions: week 1 0.50 kg, week 2 0.75, week 3 1.00, week 4 1.25, week 5 1.50.\n- Harvest at 35 to 40 days when stocked at 100 per m2 to avoid cannibalism. By 4 to 5 weeks fish split into small (2 to 3 g) and larger (8 to 10 g) groups; survival drops sharply (1 to 3%) when fingerlings are left until over 15 g.\n- Typical results in Congo: about 39% survival to 3 g fingerlings, about 1,250 kg per hectare standing crop.\n- Remove tadpoles and aquatic insects early; birds and other predators need netting or other protection.\n(Source: FAO Fisheries Technical Paper 362, chapter 5.)",
+      "id": "chunk_18",
+      "embedding": null
+    },
+    {
+      "source": "fish_catfish_pond_culture.md",
+      "page": 1,
+      "title": "Catfish: Grow-out stocking, feed and feeding rate",
+      "content": "## Catfish: Grow-out stocking, feed and feeding rate\nFarmer words: how much feed, feeding rate, how many fish per pond, fish no dey grow.\n- Stocking: 2 to 10 fingerlings per m2. After six months about 500 g fish at the low end and about 200 g at 10 per m2. Central African Republic static ponds: 10 per m2 gave about 10,000 kg per hectare (200 g average, about 50% survival) in 24 weeks. Do not go past 10 per m2; thin periodically in high-density systems.\n- Feed: formulated feed is needed for intensive culture. Best growth at about 35 to 42% crude protein; digestible protein targets of 35 to 40% for fry and fingerlings, 30 to 35% for growers, 35 to 40% for broodstock. Plant oilseed cakes are preferred over scarce fishmeal; poultry vitamin premix at about 0.1% of pelleted feed is used where no fish premix is available.\n- Feeding rate (as % of body weight per day at 25 C): about 6.5% for 1 g fish, 3.4% at 25 g, and 2.3% at 200 g. Feed between 21 and 33 C. Use slightly more in the first months, less in the last three months of a static pond. Recalculate every two weeks and re-sample fish every 4 to 6 weeks with a cast net.\n- Feed conversion in South African trials was about 1.0 to 1.5.\n(Source: FAO Fisheries Technical Paper 362, chapter 6.)",
+      "id": "chunk_19",
+      "embedding": null
+    },
+    {
+      "source": "fish_catfish_pond_culture.md",
+      "page": 1,
+      "title": "Catfish: Water quality and overfeeding problems",
+      "content": "## Catfish: Water quality and overfeeding problems\nFarmer words: fish dey gasp, fish dey come up for water surface for morning, water green, fish dey die for night.\n- Overfeeding causes low oxygen, high ammonia and high suspended solids. Dense algae blooms and surface scum can cause oxygen shortage at night and just before dawn.\n- Fixes: cut feeding and flush with fresh water. Heavily stocked ponds need about 25% daily water exchange.\n- Poor water quality from accumulated waste stresses fish and can trigger disease outbreaks.\n- Bird predation is a major problem in intensive farms; protect ponds.\n(Source: FAO Fisheries Technical Paper 362, chapter 6.)",
+      "id": "chunk_20",
+      "embedding": null
+    },
+    {
+      "source": "fish_catfish_pond_culture.md",
+      "page": 1,
+      "title": "Catfish: Breeding and hatchery basics",
+      "content": "## Catfish: Breeding and hatchery basics\n- Broodstock: males over 200 g and at least 7 months old; females ideally 300 to 800 g. Broodstock pond density 0.5 to 1 fish per m2. Ovaries stay ripe year-round only if water is above about 22 C.\n- Eggs hatch in about 27 hours at 25 C and 20 hours at 30 C. Yolk-sac larvae need no feed for 3 to 4 days.\n- Keep eggs and larvae in clean, oxygenated water and remove dead eggs and shells to prevent fungus. The 1996 handbook mentions malachite green for fungus control; this chemical is banned for food fish in many countries, so do not recommend it.\n- One testis can fertilise the eggs of 10 to 15 females.\n(Source: FAO Fisheries Technical Paper 362, chapter 4.)",
+      "id": "chunk_21",
+      "embedding": null
+    },
+    {
+      "source": "fish_diseases_and_health.md",
+      "page": 1,
+      "title": "Fish Diseases and Health (Tilapia and Catfish) in Africa",
+      "content": "# Fish Diseases and Health (Tilapia and Catfish) in Africa\nOriginal summary of FAO CIFA Technical Paper 31 (Paperna 1996), \"Parasites, infections and diseases of fishes in Africa: an update\", and African farm surveys. A fish health specialist should confirm any diagnosis.",
+      "id": "chunk_22",
+      "embedding": null
+    },
+    {
+      "source": "fish_diseases_and_health.md",
+      "page": 1,
+      "title": "Fish: Bacterial infections (Aeromonas, streptococcosis, vibriosis) and what triggers them",
+      "content": "## Fish: Bacterial infections (Aeromonas, streptococcosis, vibriosis) and what triggers them\nFarmer words: fish get red spots, fish dey bleed, belly dey swell, eye dey push out, fin dey rot, fish dey swim round-round, plenty fish dey die.\n- Many bacteria in the pond water become dangerous only when fish are stressed. Triggers listed by FAO: handling injury, poor feeding, poor water quality, overstocking, cold temperatures.\n- Streptococcosis (tilapia): swollen belly with fluid, skin sores, bulging eyes, erratic or circling swimming. Outbreaks after stress can kill 50 to 60% of stock.\n- Vibriosis (tilapia): bleeding at fin bases, lethargy, stiffness, purple gills; death within 48 to 72 hours after handling.\n- Aeromonas hydrophila and other ubiquitous bacteria: death within 24 to 48 hours, red spots, eroded fins and skin sores, pale liver and swollen belly. Losses up to 98% have been reported in overwintering tilapia.\n- Gill and fin rot (myxobacteria): rapid gill damage, white or yellow patches on head and back, fin rot. Linked to handling damage, high organic load, ammonia or nitrite, and crowding.\n(Source: FAO CIFA Technical Paper 31, chapter 3.)",
+      "id": "chunk_23",
+      "embedding": null
+    },
+    {
+      "source": "fish_diseases_and_health.md",
+      "page": 1,
+      "title": "Fish: Columnaris is not Aeromonas",
+      "content": "## Fish: Columnaris is not Aeromonas\nFlavobacterium columnare (columnaris, causing gill and skin damage) is a different bacterium from Aeromonas (which causes septicaemia with red spots and belly swelling). The two are often confused. A Ugandan survey found Flavobacterium columnare, Aeromonas and Edwardsiella on tilapia and catfish farms, often in healthy-looking fish too.\n(Source: Walakira et al. 2014, Uganda Journal of Agricultural Sciences.)",
+      "id": "chunk_24",
+      "embedding": null
+    },
+    {
+      "source": "fish_diseases_and_health.md",
+      "page": 1,
+      "title": "Fish: Common parasites",
+      "content": "## Fish: Common parasites\nFarmer words: fish dey scratch for wall, white spots on skin, fish rub body, gill dey pale, fish dey flash.\nReported on Ugandan tilapia and catfish farms: white-spot parasite (Ichthyophthirius, \"ich\"), Trichodina and Ichthyobodo (skin and gill protozoa), and gill and skin flukes (Cleidodiscus, Gyrodactylus). Typical signs are scratching or flashing, white spots, excess mucus and pale or damaged gills. Poor water quality and crowding make these worse. Diagnosis needs a microscope; a fisheries extension officer can do a skin and gill scrape.\n(Sources: Walakira et al. 2014; FAO CIFA Technical Paper 31.)",
+      "id": "chunk_25",
+      "embedding": null
+    },
+    {
+      "source": "fish_diseases_and_health.md",
+      "page": 1,
+      "title": "Fish: Prevention, and why antibiotics should not be the first answer",
+      "content": "## Fish: Prevention, and why antibiotics should not be the first answer\n- FAO advises against routine blanket medicated feeding: it is wasteful, harms the pond's natural processes, and breeds resistant bacteria. Antibiotics can only help while fish are still eating, and sensitivity testing is needed.\n- A Nigerian catfish study found common outbreaks, self-prescribed antibiotics, and Aeromonas carrying resistance genes. Do not tell farmers to guess antibiotics.\n- Prevention that works: avoid overstocking and overfeeding; handle fish gently and as little as possible, avoid handling in cold or hot extremes; keep water quality good (see the water quality notes); keep ponds covered against birds; quarantine new fish; clean nets and tools.\n- A Ugandan farm survey recorded disease outbreaks with survival of only 0 to 30% on some farms, especially in catfish hatcheries.\n- FAO also recommends banning imports of seed, breeders and eggs from tilapia-producing countries to keep exotic diseases out of Africa.\n(Sources: FAO CIFA Technical Paper 31, section 3.1.6; Walakira et al. 2014; Nigerian catfish study.)",
+      "id": "chunk_26",
+      "embedding": null
+    },
+    {
+      "source": "fish_diseases_and_health.md",
+      "page": 1,
+      "title": "Fish: What to ask the farmer first",
+      "content": "## Fish: What to ask the farmer first\nAsk: how many fish died and how fast; species and size; stocking density; recent feeding or feed change; recent handling, transport, rain, heat or cold; water colour and smell; dissolved oxygen readings if any; any red spots, belly swelling, gill colour, scratching or flashing. Then advise water-quality steps first and a fisheries officer or vet for diagnosis.",
+      "id": "chunk_27",
+      "embedding": null
+    },
+    {
+      "source": "fish_tilapia_water_quality_and_feeding.md",
+      "page": 1,
+      "title": "Nile Tilapia: Pond Water Quality and Feeding",
+      "content": "# Nile Tilapia: Pond Water Quality and Feeding\nEvidence note: no single FAO document with combined pond targets was found. The figures below come from peer-reviewed trials and extension articles named in each section; they are research results, not an official standard. Ask a local fisheries extension officer to confirm.",
+      "id": "chunk_28",
+      "embedding": null
+    },
+    {
+      "source": "fish_tilapia_water_quality_and_feeding.md",
+      "page": 1,
+      "title": "Tilapia: Dissolved oxygen (fish gasping, early-morning deaths)",
+      "content": "## Tilapia: Dissolved oxygen (fish gasping, early-morning deaths)\nFarmer words: tilapia dey gasp, fish dey float for top for morning, fish dey die after rain, green water.\n- Oxygen is lowest at night and just before dawn (about 02:00 to 06:00) and highest in the afternoon (around 15:00). In Thai ponds, oxygen was below 1 mg/L during those hours in 68% of observations.\n- A commonly used reference point: oxygen below about 5 mg/L is dangerous for fish growth and health, and ponds swing up and down over a day.\n- Thermal layers can make it worse: deep water that is poor in oxygen can mix suddenly with surface water (turnover) after cold nights or heavy rain.\n- What to do: reduce feeding on cloudy, hot or humid days; do not overfeed; add aeration or fresh water at night if you have it; avoid heavy fertilising with manure; check water at dawn.\n(Sources: Thai pond diel studies (ISTA6); Tanzanian fertiliser and feeding trial. See SOURCES.md.)",
+      "id": "chunk_29",
+      "embedding": null
+    },
+    {
+      "source": "fish_tilapia_water_quality_and_feeding.md",
+      "page": 1,
+      "title": "Tilapia: Ammonia and overfeeding",
+      "content": "## Tilapia: Ammonia and overfeeding\n- Un-ionised ammonia (NH3) is the toxic form. SRAC Publication 463 (Durborow et al.) reports short-term deaths over a few days from about 0.6 mg/L and gill and kidney damage and slower growth from chronic exposure as low as 0.06 mg/L. A Nile tilapia fingerling study suggested keeping it below about 0.1 mg/L for good growth.\n- The same article warns of ammonia problems when feed exceeds about 100 pounds per acre per day (about 112 kg per hectare per day, my own conversion) or when feed is wasted.\n- Warning signs: fish at the surface, poor appetite, red or damaged gills, slow growth.\n- Fix: stop or cut feed for a day or two, exchange part of the water, avoid heavy stocking.\n(Sources: SRAC Publication 463; Nile tilapia ammonia toxicity study. See SOURCES.md.)",
+      "id": "chunk_30",
+      "embedding": null
+    },
+    {
+      "source": "fish_tilapia_water_quality_and_feeding.md",
+      "page": 1,
+      "title": "Tilapia: Feeding rates and restricted feeding",
+      "content": "## Tilapia: Feeding rates and restricted feeding\n- Restricted feeding (about 50% of what the fish would eat to satiation) gave good growth and low feed conversion. In an Egyptian earthen-pond trial stocked at 2.4 fish per m2, 50% satiation gave feed conversion of 0.82 and a yield of 6,880 kg per hectare per year.\n- Fertilising ponds plus restricted feeding was more productive and economical than fertilising alone or feeding to satiation alone in small-scale Nile tilapia.\n- A Tanzanian pond trial at 3 fish per m2 used a 25% protein diet at 5% and 2.5% of body weight per day; water quality stayed in an acceptable range in every treatment.\n- Production limits: a Honduran study reported a limit near 3 fish per m2, a Thai study saw no water-quality decline at the same density with fertilisation. Start moderate (2 to 3 per m2) in earthen ponds with no aeration.\n(Sources: Egyptian earthen-pond trial; Tanzanian fertiliser and feed trial; Thai pond study. See SOURCES.md.)",
+      "id": "chunk_31",
+      "embedding": null
+    },
+    {
+      "source": "fish_tilapia_water_quality_and_feeding.md",
+      "page": 1,
+      "title": "Tilapia: Small-scale pond farming guide for Ghana (reference to read)",
+      "content": "## Tilapia: Small-scale pond farming guide for Ghana (reference to read)\nA Farmers' Manual on Small-Scale Tilapia Pond Farming in Ghana (Agyakwah, Asmah and Mensah, Tilapia Seed Project and IFPRI) is a practical reference for the region. Its specific figures were not reviewed for this knowledge base, so read the manual itself for its numbers.\n(Source: IFPRI publication listing; see SOURCES.md.)",
+      "id": "chunk_32",
+      "embedding": null
+    },
+    {
+      "source": "goat_sheep_health_and_management.md",
+      "page": 1,
+      "title": "Goats and Sheep (Small Ruminants): Health and Management in West Africa",
+      "content": "# Goats and Sheep (Small Ruminants): Health and Management in West Africa\nScope: West African Dwarf (WAD) goats and sheep, plus Yankasa, Uda and Balami sheep. Written as an original summary of the sources named in each section. This is decision support, not a diagnosis: a vet must confirm disease and dosing.",
+      "id": "chunk_33",
+      "embedding": null
+    },
+    {
+      "source": "goat_sheep_health_and_management.md",
+      "page": 1,
+      "title": "Goat and Sheep: Peste des petits ruminants (PPR, goat plague)",
+      "content": "## Goat and Sheep: Peste des petits ruminants (PPR, goat plague)\nFarmer words: goat dey cough, nose and eye dey run, mouth sore, dey stool water, anus dey stick with dung, plenty goats dey die, kid dem dey die.\nPPR is a viral disease and, per the FAO/ILCA review of the humid tropics, probably the most important cause of death in West African small ruminants, especially goats. It is worse in young animals around weaning.\n- Signs: sudden fever, loss of appetite, depression, watery then thick eye and nose discharge, sores on lips and gums, severe diarrhoea, pasted vent, rough coat, difficulty breathing. Pneumonia and worms often make it worse.\n- Spread: close contact with sick animals, through nose and eye discharge, saliva and dung. It does not infect humans.\n- No cure for the virus. Control is vaccination of the whole village flock, plus isolation of sick animals, movement control, and cleaning of pens. A decades-old Nigerian village study reported about 75% less mortality in vaccinated groups; treat this as indicative only.\n- Reported death rates differ between sources. FAO's programme page gives up to 90% of a herd infected and 30 to 70% of sick animals dying; other teaching sources report higher losses in unvaccinated goat flocks. Losses can be very high.\n- Action: separate sick animals, do not sell or move them, and report suspected PPR to the state veterinary office. Ask about vaccination.\n(Sources: FAO/ILCA Wilson et al.; FAO PPR programme; Nigerian PPR field study. See SOURCES.md.)",
+      "id": "chunk_34",
+      "embedding": null
+    },
+    {
+      "source": "goat_sheep_health_and_management.md",
+      "page": 1,
+      "title": "Goat and Sheep: Worms (Haemonchus, barber pole worm) and anaemia",
+      "content": "## Goat and Sheep: Worms (Haemonchus, barber pole worm) and anaemia\nFarmer words: goat dey thin, dey weak, eye and inside of eyelid dey white, jaw dey swell (bottle jaw), black stool, e no dey grow.\nHaemonchus contortus is a blood-sucking stomach worm and a major worm problem in small ruminants.\n- Signs: anaemia (pale eyelids and gums), weakness, weight loss, swelling under the jaw, dark stool, sometimes sudden death.\n- Diagnosis: faecal egg count and packed cell volume (PCV) are accurate but need a lab. The FAMACHA eye-colour chart helps, but Chiejina et al. (2015) note it is of limited use where trypanosomosis also occurs, because trypanosomes cause anaemia too.\n- Treat only animals that need it, not the whole herd on a routine. Routine blanket deworming speeds up drug resistance.\n- Prevention: avoid overcrowding, avoid grazing very short or wet pasture, rotate grazing, cull animals that repeatedly carry heavy worm burdens, and raise protein feeding for weak animals.\n- Heavy worm infections are common at the peak of the rainy season (prevalence 80 to 100% in WAD goats), but disease is mainly a problem in young animals and where grazing is crowded with no rotation.\n(Sources: Chiejina, Behnke and Fakae 2015; US university extension guides on small-ruminant parasites. See SOURCES.md.)",
+      "id": "chunk_35",
+      "embedding": null
+    },
+    {
+      "source": "goat_sheep_health_and_management.md",
+      "page": 1,
+      "title": "West African Dwarf goats: natural worm resistance",
+      "content": "## West African Dwarf goats: natural worm resistance\nWAD goats in Nigeria resist Haemonchus better than most other goat breeds, and are also trypanotolerant. In one experiment about 83% of goats harboured under 1% of a large larval dose, and in field surveys about 80% had very low worm burdens. This resistance is not found in all goats, and may not be present in WAD goats from other regions or in crosses with Sahelian goats. So a thin, anaemic WAD goat still deserves a vet check: do not assume worms are not the cause, and do not assume they are.\n(Source: Chiejina, Behnke and Fakae 2015, Parasite 22:7.)",
+      "id": "chunk_36",
+      "embedding": null
+    },
+    {
+      "source": "goat_sheep_health_and_management.md",
+      "page": 1,
+      "title": "Goat and Sheep: Coccidiosis in kids and lambs",
+      "content": "## Goat and Sheep: Coccidiosis in kids and lambs\nFarmer words: kid dey stool water, stool get blood, belly dey push out, kid no dey grow, dem dey weak.\nCoccidia damage the gut lining and mostly hit young animals, and stress and crowding make it worse.\n- Signs: diarrhoea (sometimes bloody or dark), dull and weak young animals, poor growth, dehydration.\n- Prevention: clean, dry pens; avoid overcrowding; keep feeders and waterers off the floor so they are not fouled with dung; reduce stress at weaning.\n- Treatment: coccidiostat medicines such as amprolium or sulfa drugs exist, but dose and choice must come from a vet or agro-vet, and product registration differs by country. Give fluids and keep the kid warm.\n(Source: US university extension sources; adapt to local conditions with a vet. See SOURCES.md.)",
+      "id": "chunk_37",
+      "embedding": null
+    },
+    {
+      "source": "goat_sheep_health_and_management.md",
+      "page": 1,
+      "title": "Goat and Sheep: Mange, ticks and crowded pens in the rainy season",
+      "content": "## Goat and Sheep: Mange, ticks and crowded pens in the rainy season\nA flock study of WAD sheep and goats at Nsukka (Nigeria) reported mange, ticks and stomach-worm disease, with average monthly mortality of about 15% from June onwards. The authors blamed overcrowded sheds in the warm wet months (May to September), ineffective use of acaricides, poor grazing management, and no formal deworming programme. Lesson: in the rainy season, lower the stocking density, keep housing dry and ventilated, treat for external parasites on a proper schedule under vet advice, and plan deworming around the worm peak. FAO/ILCA also lists regular dipping or spraying as part of a tested health package.\n(Sources: Nsukka flock study; FAO/ILCA Wilson et al. Older study, indicative.)",
+      "id": "chunk_38",
+      "embedding": null
+    },
+    {
+      "source": "goat_sheep_health_and_management.md",
+      "page": 1,
+      "title": "Goat and Sheep: Feeding with browse, crop residues and priority animals",
+      "content": "## Goat and Sheep: Feeding with browse, crop residues and priority animals\n- Cut-and-carry browse from legume trees such as Leucaena and Gliricidia works as a protein supplement or sole feed for penned animals. Trials showed better lamb weaning output with browse.\n- Crop residues, household waste and cassava peels are major feeds, especially for owners without land.\n- Give feeding priority to does and ewes in late pregnancy and lactation, and to young animals at weaning, because they are under the most nutritional stress.\n- Extra feed before mating (\"steaming-up\") can increase litter size, especially in animals in poor to moderate condition.\n- Better nutrition lowers disease susceptibility and deaths.\n- Alley farming idea: keep about 75% of tree foliage as mulch for the soil; the rest gives roughly 1 tonne dry matter per hectare of feed.\n(Source: FAO/ILCA Wilson, Reynolds and Armbruster, Management of sheep and goat flocks in the humid tropics of West Africa.)",
+      "id": "chunk_39",
+      "embedding": null
+    },
+    {
+      "source": "goat_sheep_health_and_management.md",
+      "page": 1,
+      "title": "Goat and Sheep: Kid and lamb losses and a simple health calendar",
+      "content": "## Goat and Sheep: Kid and lamb losses and a simple health calendar\nDeaths are highest in the period before weaning and in goats more than sheep. A practical plan, to be confirmed with the local vet: vaccinate against PPR for the whole flock on the vet's schedule; clean and dry the kidding pen; make sure newborns get colostrum; check young animals weekly for diarrhoea and pale eyelids; keep records of births, deaths, treatments and weights so problems show early. For Nigerian sheep, the usual management list is castration, dehorning, deworming, spraying, vaccination and hoof trimming.\n(Sources: FAO/ILCA Wilson et al.; Nigerian sheep and goat production reviews.)",
+      "id": "chunk_40",
+      "embedding": null
+    },
+    {
+      "source": "goat_sheep_health_and_management.md",
+      "page": 1,
+      "title": "Sheep in Nigeria: breeds, feeding and lambing figures",
+      "content": "## Sheep in Nigeria: breeds, feeding and lambing figures\n- Four main Nigerian breeds: Balami and Uda (semi-arid north), Yankasa (found throughout the country), and West African Dwarf (south). Balami is favoured for stall-fed fattening.\n- Feeding trials with rams: Digitaria smutsii hay as basal diet, with about 2% of body weight as concentrate, fattened rams over 12 weeks. Yankasa was the cheapest to raise; Balami gave the highest income over expenses in one 90-day trial.\n- Older research-station lambing rates: Uda about 129%, Yankasa about 113%, with overall mortality of 14% and 6%; a Katsina farm recorded about 110% for Balami.\n- Flushing (better feed around breeding) raised lamb crop by 20 to 30% in an Ethiopian sheep study, but no trial in Nigerian breeds was found, so this evidence comes from another country.\n(Sources: Nigerian Journal of Animal Production and related studies; see SOURCES.md. Breed-level data are old.)",
+      "id": "chunk_41",
+      "embedding": null
+    },
+    {
+      "source": "pig_management_and_health.md",
+      "page": 1,
+      "title": "Pigs: Management, Feeding and Health in the Tropics",
+      "content": "# Pigs: Management, Feeding and Health in the Tropics\nScope: smallholder and small-scale intensive pig keeping in Nigeria and the tropics. Original summary based on Agrodok 1 (Muys and Westenbrink, Agromisa, 5th ed. 2004) and Mutua and Dione (2021). Agrodok is dated; ignore any pesticide or drug it names that is banned today (for example DDT, lindane and BHC), and check current products with a vet.",
+      "id": "chunk_42",
+      "embedding": null
+    },
+    {
+      "source": "pig_management_and_health.md",
+      "page": 1,
+      "title": "Pig: African swine fever (ASF)",
+      "content": "## Pig: African swine fever (ASF)\nFarmer words: pigs dey die sharp-sharp, fever, skin red or purple, e no dey chop, e dey vomit, blood from nose, back leg weak.\n- Signs: rapidly rising fever; the pig may stay lively and eat at first; 36 to 48 hours before death it becomes restless, stops eating, loses use of back legs and lies down; reddish-blue skin (legs, ears, belly), vomiting, sometimes bloody nose discharge. Several pigs sicken and die together.\n- There is no treatment and no vaccine. ASF is not the same as classical swine fever. Biosecurity is the only tool.\n- If you suspect ASF: stop all pig movement and sales, do not sell sick pigs to traders, isolate, and report to the state veterinary office. Bury or burn carcasses; do not dump offal in the bush or feed it to pigs or dogs.\n- In Nigeria, FAO and the Federal Ministry of Livestock Development have been training farmers and developing a National ASF Control Strategy (2025); outbreaks have been reported again in 2026.\n(Sources: Agrodok 1; Mutua and Dione 2021; FAO Nigeria reports. See SOURCES.md.)",
+      "id": "chunk_43",
+      "embedding": null
+    },
+    {
+      "source": "pig_management_and_health.md",
+      "page": 1,
+      "title": "Pig: Biosecurity measures that smallholders can use against ASF",
+      "content": "## Pig: Biosecurity measures that smallholders can use against ASF\nFrom Mutua and Dione (2021), Frontiers in Veterinary Science 8:689811:\n- Limit new pigs coming from other farms, markets and villages; quarantine new animals; avoid borrowing or sharing boars.\n- Fence the farm; control people, dogs, cats, rodents and birds; use clothes and footwear only for the farm; keep traders, butchers and visitors out of pens. Pig traders and butchers going farm to farm are a major risk.\n- Clean first, then disinfect: remove dirt from vehicles, tools, boots and pens, then apply disinfectant.\n- Boil swill (kitchen waste) for about 30 minutes before feeding. Do not feed raw or undercooked pork or contaminated crops.\n- Bury carcasses safely; do not sell panic stock; get movement permits where required.\n- Report suspected cases quickly; ASF resembles other pig diseases and needs lab confirmation.\n- Free-ranging pigs make all this harder. Quick action (within about 14 days of the first cases) can reduce deaths a great deal in models.\n(Source: Mutua and Dione 2021.)",
+      "id": "chunk_44",
+      "embedding": null
+    },
+    {
+      "source": "pig_management_and_health.md",
+      "page": 1,
+      "title": "Pig: Classical swine fever, erysipelas and pneumonia",
+      "content": "## Pig: Classical swine fever, erysipelas and pneumonia\n- Classical (ordinary) swine fever: high fever (41 to 42 C), diarrhoea, unsteady walk, bruise-like skin spots, abortion in sows; piglets are pale, huddle, and may die. No treatment; prevention is vaccination, so ask the vet for the current vaccine and schedule.\n- Swine erysipelas: often confused with swine fever; typically one or a few pigs ill, in hot weather, with pink skin patches, stiff gait, hoarse screech and constipation. A vet may treat with penicillin.\n- Pneumonia: coughing, laboured breathing, slow growth; worse with overcrowding, draughts, dust and the rainy season. Keep pens dry and draught-free; a vet may give antibiotics, or treat for lungworm.\n(Source: Agrodok 1, sections 7.5 and 7.6.)",
+      "id": "chunk_45",
+      "embedding": null
+    },
+    {
+      "source": "pig_management_and_health.md",
+      "page": 1,
+      "title": "Pig: Worms, mange and lice",
+      "content": "## Pig: Worms, mange and lice\n- Worms are among the most serious problems in free-range and semi-intensive pigs; more than 30 types affect the gut, and young piglets are most vulnerable. Prevention: rotate fields, keep pens clean, deworm sows about 1 week before farrowing and wash them, then keep them inside to farrow.\n- Mange causes itching and scaly skin around legs, eyes, ears and neck; wash with soap and water, then treat with a product advised by a vet. Lice and sand fleas cause irritation, especially in piglets.\n- Do not treat routinely without need: repeated treatments reduce natural resistance, and organisms can become resistant if medicines are used at wrong doses or too often. Always finish an antibiotic course, and do not slaughter or sell meat during withdrawal.\n(Source: Agrodok 1, sections 7.3 and 7.4.)",
+      "id": "chunk_46",
+      "embedding": null
+    },
+    {
+      "source": "pig_management_and_health.md",
+      "page": 1,
+      "title": "Pig: Piglet anaemia (iron deficiency) and baby piglet care",
+      "content": "## Pig: Piglet anaemia (iron deficiency) and baby piglet care\nFarmer words: piglet dey pale, e no dey grow, e dey fat for neck, piglet dey tire.\n- Piglets kept on concrete get serious anaemia within 2 to 3 weeks because sow milk lacks enough iron. They turn pale and growth drops.\n- Prevention: put a shovel of clean iron-rich soil (soil that no pigs have used, so no worm eggs) in a corner of the pen daily from the first week, and/or inject iron within 0 to 3 days after birth if available (common in intensive units). Wood ash gives calcium and phosphorus, not iron.\n- Keep piglets warm; trim tusk points only if they fight over teats; castrate males in the first two weeks if healthy.\n(Source: Agrodok 1, sections 4.3, 4.6 and 7.7.)",
+      "id": "chunk_47",
+      "embedding": null
+    },
+    {
+      "source": "pig_management_and_health.md",
+      "page": 1,
+      "title": "Pig: Breeding, farrowing and weaning figures",
+      "content": "## Pig: Breeding, farrowing and weaning figures\n- A sow comes on heat for 2 to 3 days about every 3 weeks; check for heat again 3 weeks after mating. Gilts should come on heat at 6 to 8 months. Gestation is about 114 days.\n- Sows come on heat again within about a week of weaning. Wean at about 8 weeks, taking the sow away rather than the piglets; the sow can suckle for 6 to 8 weeks without losing too much weight.\n- Keep records: heat dates, service, farrowing dates, litter size, deaths and weights.\n(Source: Agrodok 1, chapters 4 and 5.)",
+      "id": "chunk_48",
+      "embedding": null
+    },
+    {
+      "source": "pig_management_and_health.md",
+      "page": 1,
+      "title": "Pig: Feeding by stage",
+      "content": "## Pig: Feeding by stage\n- Protein: weaners need about 20% protein; after about 3 months, 13% is enough. Pregnant sows need extra protein late in pregnancy; lactating sows need plenty of energy feed and water.\n- To reach 13% protein: mix 1 part beans (about 20%) with 2 parts cereals (about 10%). Tubers and roots are poor in protein and need protein supplements such as soy, groundnut cake, fish meal or milk products.\n- Add minerals (about 0.3 kg per 10 kg of feed mixture).\n- Cook soybeans; check groundnuts for mould; do not feed cottonseed, safflower seed or cabbage seed. Give lactating sows extra meal per piglet plus a base ration of about 1 kg. At 3 to 4 weeks, give piglets easily digested food such as watery porridge.\n- Always provide clean water.\n(Source: Agrodok 1, chapter 6.)",
+      "id": "chunk_49",
+      "embedding": null
+    },
+    {
+      "source": "pig_management_and_health.md",
+      "page": 1,
+      "title": "Pig: Housing in hot climates",
+      "content": "## Pig: Housing in hot climates\nDesign depends on climate, whether it is a breeding or fattening unit, and local materials. Use shade, a roof of leaves or corrugated iron, a sloping floor to drain urine, a dung area attached to each pen, a feeding trough and a wallowing or wetting area (cooling works through evaporation of water from the skin). A pen of 12 to 15 weaners or about 10 fatteners is a manageable group. Provide heating for newborn piglets and shade for adults. For heat stress in a pig: shade, and wet or cool the head with cold water.\n(Source: Agrodok 1, chapter 3 and section 7.8; Nigerian pig production reviews.)",
+      "id": "chunk_50",
+      "embedding": null
+    },
+    {
+      "source": "pig_management_and_health.md",
+      "page": 1,
+      "title": "Pig: Other diseases to know",
+      "content": "## Pig: Other diseases to know\nTetanus (rusty wound, no treatment), mastitis, anthrax (blood from body openings, burn do not bury), brucellosis (abortion; dispose of infected animals), and trypanosomiasis (tsetse areas make pig keeping very difficult). Mastitis and enteritis need a vet. If a pig has diarrhoea from feed change, withhold feed and give only clean water for one to two days, then restart gradually.\n(Source: Agrodok 1.)",
+      "id": "chunk_51",
+      "embedding": null
+    },
+    {
+      "source": "poultry_broiler_ross308_targets.md",
+      "page": 1,
+      "title": "Poultry: Broiler Growth and Feed Targets (Ross 308)",
+      "content": "# Poultry: Broiler Growth and Feed Targets (Ross 308)\nOriginal summary of Aviagen, \"Ross 308 / 308 FF Broiler: Performance Objectives\" (2022), as-hatched (mixed-sex) metric table. These are objectives achievable under good management and recommended nutrition. Aviagen itself says local factors (raw materials, extreme climate, economics) can keep average farm performance below them, so a tropical farm below the table is not automatically a problem; a sudden fall is.",
+      "id": "chunk_52",
+      "embedding": null
+    },
+    {
+      "source": "poultry_broiler_ross308_targets.md",
+      "page": 1,
+      "title": "Poultry: Ross 308 broiler weight, feed intake and FCR by age",
+      "content": "## Poultry: Ross 308 broiler weight, feed intake and FCR by age\nFarmer words: how much should my broilers weigh, how much feed per bird, target weight, FCR, broiler no dey grow.\nPer bird, as-hatched (Aviagen 2022):\n- Day 7: weight 213 g; daily feed 35 g; cumulative feed 166 g; FCR 0.780.\n- Day 14: weight 533 g; daily feed 67 g; cumulative feed 535 g; FCR 1.005.\n- Day 21: weight 1012 g; daily feed 105 g; cumulative feed 1155 g; FCR 1.142.\n- Day 28: weight 1616 g; daily feed 145 g; cumulative feed 2051 g; FCR 1.269.\n- Day 35: weight 2296 g; daily feed 180 g; cumulative feed 3211 g; FCR 1.399.\n- Day 42: weight 2998 g; daily feed 207 g; cumulative feed 4586 g; FCR 1.531.\n- Day 49: weight 3681 g; daily feed 225 g; cumulative feed 6115 g; FCR 1.663.\n- Day-old chick weight is 44 g.\nFCR here is cumulative feed divided by live weight, includes the chick's starting weight, and does not account for deaths. Weights are on-farm live weights, so they include feed in the gut. Values are rounded.\n(Source: Aviagen Ross 308/308 FF Broiler Performance Objectives 2022.)",
+      "id": "chunk_53",
+      "embedding": null
+    },
+    {
+      "source": "poultry_broiler_ross308_targets.md",
+      "page": 1,
+      "title": "Poultry: Working out flock feed from the table",
+      "content": "## Poultry: Working out flock feed from the table\nMultiply the per-bird daily feed by the number of live birds. Example: 500 birds at day 28 should eat about 145 g x 500 = 72.5 kg of feed per day if they follow the Ross curve; at day 21 about 105 g x 500 = 52.5 kg; at day 14 about 67 g x 500 = 33.5 kg. If a flock eats well below the curve for its age, or its daily intake drops suddenly from one day to the next, check water first, then heat, feed quality (mould, a new feed batch) and early signs of disease such as coccidiosis, Newcastle disease or Gumboro. Compare with the farm's own earlier days, since a farm that has never reached the table may simply have a lower baseline.\n(Source: Aviagen 2022 table; reasoning for the farmer based on it. Check the farm's own records.)",
+      "id": "chunk_54",
+      "embedding": null
+    },
+    {
+      "source": "poultry_broiler_ross308_targets.md",
+      "page": 1,
+      "title": "Poultry: Broiler management points from Aviagen",
+      "content": "## Poultry: Broiler management points from Aviagen\n- Brood so chicks find water and feed easily at placement, and plan the move to automatic feeders and drinkers at 4 to 5 days.\n- Feed a highly digestible, balanced starter diet.\n- Watch chick behaviour to keep them in their comfort zone; beware low relative humidity (under 50%), and start a minimum ventilation programme from day one.\n- Check crop fill, feeding and drinking behaviour, and the 7-day live weight (213 g on the Ross curve) to judge how brooding went.\n- Fast-growing broilers make a lot of heat, especially in the second half of grow-out. Keeping ambient temperature under 21 C from day 21 may improve growth rates, which is hard in the tropics, so ventilation, shade and cool water matter even more.\n- Keep biosecurity and cleanliness high to limit disease challenge.\n- An older Ross brooding guide (about 1999) suggested a starting temperature of 29 to 31 C at chick level in whole-house brooding, treating the numbers as ceilings because heat suppresses appetite. Use the current Ross Broiler Management Handbook for the full schedule.\n(Sources: Aviagen Performance Objectives 2022; older Ross brooding guide surfaced via search.)",
+      "id": "chunk_55",
+      "embedding": null
+    },
+    {
+      "source": "poultry_broiler_ross308_targets.md",
+      "page": 1,
+      "title": "Poultry: Water use in broilers (check before relying on it)",
+      "content": "## Poultry: Water use in broilers (check before relying on it)\nA commonly quoted rule of thumb is that broilers drink about 1.8 to 2 times their feed weight in water at 21 C, rising to 3 to 4 times above 30 C. This was not confirmed in the sources reviewed, so use it only as a guide: a sudden fall in water use, or birds crowding at drinkers, is a warning sign.",
+      "id": "chunk_56",
+      "embedding": null
+    },
+    {
+      "source": "poultry_layers_egg_drop_and_flock_biosecurity.md",
+      "page": 1,
+      "title": "Poultry: Layers (Egg Drop) and Flock Biosecurity",
+      "content": "# Poultry: Layers (Egg Drop) and Flock Biosecurity\nOriginal summary of University of Kentucky extension publication ASC-192, \"Why Have My Hens Stopped Laying?\" (Jacob and Pescatore), plus a 2024 review of infectious poultry diseases in smallholder systems in Africa. Product names and doses are not given; a vet should confirm disease.",
+      "id": "chunk_57",
+      "embedding": null
+    },
+    {
+      "source": "poultry_layers_egg_drop_and_flock_biosecurity.md",
+      "page": 1,
+      "title": "Poultry: Layers egg drop, investigate in this order",
+      "content": "## Poultry: Layers egg drop, investigate in this order\nFarmer words: egg dey drop, hens no dey lay, fewer eggs, soft shell, no shell, layers dey stop to lay.\n1. Confirm it is real. Check whether hens are eating eggs, hiding them, or a predator or thief is taking them.\n2. Age. Laying begins at 18 to 22 weeks, peaks 6 to 8 weeks later (90% or more is common in good laying strains), then slowly declines.\n3. Feed and water. Hours without feed cause a drop in proportion to how long the hens were out; lack of water is worse (blue combs, birds crowding at drinkers).\n4. Light. See the lighting section below.\n5. Heat. Panting, less feed, more water, smaller eggs.\n6. Ration. A new feed batch, scratch grains or kitchen scraps, or a wrong ingredient can unbalance the diet.\n7. Feed spoiling. Mouldy feed with mycotoxins.\n8. Parasites and disease.\n(Source: University of Kentucky ASC-192. A review of the flock history is the first step.)",
+      "id": "chunk_58",
+      "embedding": null
+    },
+    {
+      "source": "poultry_layers_egg_drop_and_flock_biosecurity.md",
+      "page": 1,
+      "title": "Poultry: Layers lighting, heat, water and calcium",
+      "content": "## Poultry: Layers lighting, heat, water and calcium\n- Day length: once in lay, hens need about 14 hours of light a day; production falls and often stops when day length drops under 12 hours, which is why a flock may slow in the autumn. Supplement morning light to hold at least 14 hours (the guide suggests one 40 W lamp per 100 square feet of coop).\n- Heat stress: feed intake, egg numbers, egg size and hatchability all fall. Provide shade, ventilation and plenty of cool water.\n- Water: water is the most essential nutrient and hens react more strongly to lack of water than lack of feed.\n- Calcium: shell is mostly calcium carbonate and calcium need rises about fourfold when laying starts. Too little calcium gives thin or shell-less eggs and fewer eggs; vitamin D3 is needed to absorb it. Do not feed a high-calcium layer ration to young pullets.\n- Salt and protein: too little salt causes feather eating; too much causes wet droppings and kidney problems. Methionine is the amino acid most often short in layer rations.\n- Mould: aflatoxin from mouldy corn lowers feed intake and thins shells; discard wet or mouldy feed.\n- Some anticoccidial drugs affect layers (nicarbazin: shell-less eggs and loss of brown-egg colour; monensin on low-protein diets). Use only layer rations in layers.\n(Source: University of Kentucky ASC-192.)",
+      "id": "chunk_59",
+      "embedding": null
+    },
+    {
+      "source": "poultry_layers_egg_drop_and_flock_biosecurity.md",
+      "page": 1,
+      "title": "Poultry: Layers parasites and diseases that cut egg numbers",
+      "content": "## Poultry: Layers parasites and diseases that cut egg numbers\n- Mites and lice: nervous flock, weight loss; egg production may fall about 10% and up to 20% in heavy infestations. Worms: birds eat but lose weight.\n- Diseases listed with signs: fowl pox (scab-like lesions on face and comb); coccidiosis (bloody droppings); infectious bronchitis (coughing, sneezing, soft or misshapen eggs, watery egg white); Newcastle disease (respiratory and nervous signs, twisted neck, higher deaths, big egg drop); avian influenza (swollen face, dark red spots on legs and combs, diarrhoea); Mycoplasma and infectious coryza (swollen face, nasal discharge); fowl cholera (sudden deaths, swollen wattles).\n- If several birds are sick or dying as well as the drop, treat it as disease: isolate, restrict movement, and call a vet.\n(Source: University of Kentucky ASC-192, tables 2 and 3.)",
+      "id": "chunk_60",
+      "embedding": null
+    },
+    {
+      "source": "poultry_layers_egg_drop_and_flock_biosecurity.md",
+      "page": 1,
+      "title": "Poultry: Smallholder flock biosecurity and disease picture in Africa",
+      "content": "## Poultry: Smallholder flock biosecurity and disease picture in Africa\nFrom a 2024 review (Grace and colleagues):\n- Viral diseases (Newcastle disease, avian influenza) and bacterial diseases (colibacillosis, salmonellosis) cause most chicken losses. Newcastle vaccination is the most widely practised, but coverage is low (about 26 to 36% in Ethiopia, Uganda and Tanzania).\n- Keep new or sick birds apart for about 2 weeks; avoid buying birds of unknown origin or from markets when outbreaks are common; wash hands and use footbaths; limit visitors; keep housing away from roads and standing water.\n- Stack manure for at least 3 weeks; bury, compost or burn dead birds; never slaughter or sell birds from a flock that is dying of disease.\n- Avian influenza: keep birds apart from waterfowl, use solid roofs and sides to block wild birds and their droppings. Vaccines are costly and poorly suited to smallholders.\n- Gumboro and Marek's disease matter most in intensive flocks of exotic breeds; coccidiosis matters in deep-litter houses.\n- Eggs and meat: discard cracked eggs, cook eggs and chicken thoroughly, avoid raw eggs (salmonella).\n(Source: Grace et al. 2024, The public health importance and management of infectious poultry diseases in smallholder systems in Africa.)",
+      "id": "chunk_61",
+      "embedding": null
+    },
+    {
+      "source": "poultry_newcastle_disease_and_vaccination.md",
+      "page": 1,
+      "title": "Poultry: Newcastle Disease and Vaccination",
+      "content": "# Poultry: Newcastle Disease and Vaccination\nOriginal summary of the MSD (Merck) Veterinary Manual chapters on Newcastle disease and broiler vaccination, the ILRI/IITA I-2 vaccine page, a Nigerian field trial of a heat-resistant vaccine, and Nigerian schedule research. Vaccine products, doses and timing must follow the vaccine label and the local vet.",
+      "id": "chunk_62",
+      "embedding": null
+    },
+    {
+      "source": "poultry_newcastle_disease_and_vaccination.md",
+      "page": 1,
+      "title": "Poultry: Newcastle disease signs and losses",
+      "content": "## Poultry: Newcastle disease signs and losses\nFarmer words: chicken dey gasp, dey cough, neck dey twist, leg or wing paralysed, green watery stool, plenty chickens dey die suddenly, egg dey drop, soft-shell eggs.\n- Newcastle disease (ND) is a viral disease with no treatment. Signs overlap with other diseases, so a lab test is needed to confirm.\n- Severe forms: dullness, loss of appetite, breathing difficulty, mucus in the mouth, swelling around the eyes and head, blue comb, watery greenish diarrhoea, and sudden death. Nervous forms add tremors, paralysis of legs or wings, twisted neck and circling.\n- Moderate forms: gasping, coughing and rattling breath in young birds, and a temporary drop in egg production.\n- Losses: up to 100% sickness and death in unvaccinated flocks with the most severe forms; about 50% death (up to 90% in young birds) with the nervous form. Vaccinated birds can look normal except for fewer eggs while still shedding virus.\n- Spread: breath and droppings from sick birds, moving birds, people, equipment and litter; wild and pet birds.\n- Look-alikes to rule out: avian influenza (acute cases), infectious bronchitis, infectious laryngotracheitis, infectious coryza, mycoplasmosis, fowl cholera.\n- Action: isolate suspected birds, stop moving birds, restrict visitors, and notify the veterinary authority; ND is reportable.\n(Source: MSD Veterinary Manual, Newcastle disease in poultry.)",
+      "id": "chunk_63",
+      "embedding": null
+    },
+    {
+      "source": "poultry_newcastle_disease_and_vaccination.md",
+      "page": 1,
+      "title": "Poultry: Newcastle vaccination principles",
+      "content": "## Poultry: Newcastle vaccination principles\n- Live vaccines such as B1 and La Sota go in drinking water or as spray. About 85% of the flock must be immune for herd protection.\n- Inactivated oil vaccines are given to breeders and layers, often after live vaccines; each bird is handled individually.\n- Chicks can be vaccinated from day 1, but waiting until weeks 2 to 3 can avoid interference from antibodies passed from the hen.\n- Vaccines prevent illness, not infection, and give no complete protection. Genotype VII strains have caused outbreaks in vaccinated flocks, so keep biosecurity.\n- No antiviral treatment; antibiotics only help with secondary infections.\n(Source: MSD Veterinary Manual.)",
+      "id": "chunk_64",
+      "embedding": null
+    },
+    {
+      "source": "poultry_newcastle_disease_and_vaccination.md",
+      "page": 1,
+      "title": "Poultry: Typical broiler vaccination programme (example, not a Nigerian rule)",
+      "content": "## Poultry: Typical broiler vaccination programme (example, not a Nigerian rule)\nFrom the MSD Veterinary Manual example: day 1 Marek's disease (injected under the skin) and Newcastle disease (coarse spray); an optional second Newcastle and infectious bronchitis dose at days 14 to 21 (drinking water or spray); Gumboro (infectious bursal disease) intermediate-strain vaccine at days 14 to 21 in drinking water. The manual says actual programmes vary with local conditions, disease pressure and the vet's preference.\nGumboro timing differs by several days between sources: one manufacturer uses days 14 and 19 in normal areas and about days 11 and 16 in high-risk areas; a university lecture used days 8 to 12 then later boosters. So no single Gumboro day is right everywhere: follow the vaccine label and your local vet. Other ND and Gumboro dates found in older notes could not be verified.\n(Sources: MSD Veterinary Manual; manufacturer and lecture schedules surfaced via search.)",
+      "id": "chunk_65",
+      "embedding": null
+    },
+    {
+      "source": "poultry_newcastle_disease_and_vaccination.md",
+      "page": 1,
+      "title": "Poultry: Nigerian Newcastle vaccination research",
+      "content": "## Poultry: Nigerian Newcastle vaccination research\n- A 2016 Nigerian review table lists: Hitchner B1 at the hatchery on day 1 (spray); La Sota at 1 to 2 weeks in drinking water; Komarov at 7 to 10 weeks by injection; inactivated oil-emulsion vaccine at 16 to 18 weeks. A 2025 Nigerian Journal of Animal Production study recommended La Sota as the first dose followed by boosters with a mesogenic strain such as Komarov or R2B, and noted lower antibody levels in the first two weeks of life, so biosecurity matters. (Seen through search summaries, not read in full.)\n- Village chickens in Kaduna State given one dose of a heat-resistant vaccine (NDV4HR) mixed in feed had protective antibody levels rise from about 9% to roughly 65 to 68% of birds. The study measured antibodies only (no challenge or death data), and the authors said repeat-dose timing still needed research. Feed delivery avoids catching every bird.\n(Sources: Nwanta et al. 2006, Livestock Research for Rural Development 18(5); Nigerian Journal of Animal Production 2025; 2016 review.)",
+      "id": "chunk_66",
+      "embedding": null
+    },
+    {
+      "source": "poultry_newcastle_disease_and_vaccination.md",
+      "page": 1,
+      "title": "Poultry: I-2 thermostable Newcastle vaccine for village flocks",
+      "content": "## Poultry: I-2 thermostable Newcastle vaccine for village flocks\n- I-2 is a heat-tolerant live vaccine given by eye drop, usable in birds of all ages, mainly for village chickens.\n- Schedule advised by ILRI/IITA: three doses at four-month intervals for full protection of layers; services often vaccinate every three to four months. Chick sellers should vaccinate young birds before sale.\n- Handling: keep at about 8 C until use, carry in coolers with ice packs, use within 1 to 2 days of buying it refrigerated, use within 2 to 3 hours after mixing. Vials hold 100 to 200 doses.\n- Doses are cheap (about US$0.02) and are given by trained, registered vaccinators.\n(Source: ILRI / IITA PROPAS page on universal vaccination against Newcastle disease.)",
+      "id": "chunk_67",
+      "embedding": null
+    }
+  ]
+}

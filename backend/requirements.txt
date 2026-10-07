@@ -1,0 +1,12 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+SQLAlchemy[asyncio]>=2.0.35
+aiosqlite>=0.20.0
+pydantic>=2.9.2
+python-dotenv>=1.0.1
+pypdf>=5.0.0
+numpy>=2.1.0
+openai>=1.50.0
+requests>=2.32.0
+
+

@@ -1,3 +1,31 @@
 # Local-only files
 Hero Video 1.mp4
 .claude/
+
+# Secrets: never commit real keys. Copy .env.example to backend/.env and fill it in.
+.env
+backend/.env
+.env.*
+!.env.example
+
+# Python virtual environments (each person creates their own)
+.venv/
+backend/.venv/
+venv/
+env/
+
+# Python build and cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local database (recreate it with: python backend/seed.py)
+*.db
+*.sqlite3
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
