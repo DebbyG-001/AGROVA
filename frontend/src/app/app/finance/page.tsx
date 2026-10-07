@@ -6,8 +6,9 @@ export default function Finance() {
   const margin = Math.round((totals.profit / totals.revenue) * 100);
   return (
     <div className="space-y-4">
-      <h1 className="h-display text-3xl">Finance</h1>
-      <div className="rounded-2xl bg-forest p-5 text-lime">
+      <h1 className="h-display text-3xl lg:text-5xl">Finance</h1>
+      <div className="grid gap-4 lg:grid-cols-[2fr_3fr] lg:gap-6">
+      <div className="rounded-2xl bg-forest p-5 text-lime lg:p-8">
         <p className="label opacity-70">Estimated profit</p>
         <p className="mt-2 font-mono text-3xl">{naira(totals.profit)}</p>
         <p className="label mt-2">{margin}% margin · from recorded data</p>
@@ -33,6 +34,7 @@ export default function Finance() {
           })}
         </ul>
       </Card>
+      </div>
     </div>
   );
 }

@@ -39,6 +39,7 @@ body {
   background: var(--paper);
   color: var(--forest);
   font-family: var(--font-sans);
+  line-height: 1.6;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -46,8 +47,8 @@ body {
 .h-display {
   font-family: var(--font-mono);
   text-transform: uppercase;
-  letter-spacing: -0.02em;
-  line-height: 1.05;
+  letter-spacing: -0.015em;
+  line-height: 1.2;
   font-weight: 400;
 }
 
@@ -56,6 +57,7 @@ body {
   font-size: 0.8125rem;
   text-transform: uppercase;
   letter-spacing: 0.04em;
+  line-height: 1.4;
 }
 
 /* Scroll reveal (see components/reveal.tsx) */

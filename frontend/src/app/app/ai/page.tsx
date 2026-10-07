@@ -44,17 +44,17 @@ export default function AiChat() {
   }
 
   return (
-    <div className="flex h-[calc(100dvh-10.5rem)] flex-col">
+    <div className="mx-auto flex h-[calc(100dvh-10.5rem)] w-full max-w-4xl flex-col lg:h-[calc(100dvh-4rem)]">
       <div className="mb-3">
-        <h1 className="h-display text-3xl">Agrova AI</h1>
-        <p className="label opacity-70">Your farm companion</p>
+        <h1 className="h-display text-3xl lg:text-5xl">Agro AI</h1>
+        <p className="label mt-2 opacity-70">Your farm companion</p>
       </div>
 
       <div className="flex-1 space-y-3 overflow-y-auto" role="log" aria-live="polite">
         {msgs.map((m) => (
           <div key={m.id} className={`flex ${m.who === "you" ? "justify-end" : "justify-start"}`}>
             <div
-              className={`max-w-[85%] rounded-2xl px-4 py-2.5 ${
+              className={`max-w-[85%] rounded-2xl px-4 py-2.5 lg:max-w-[70%] ${
                 m.who === "you" ? "bg-forest text-lime" : "border border-forest/10 bg-white"
               }`}
             >
@@ -108,7 +108,7 @@ export default function AiChat() {
           value={input}
           onChange={(e) => setInput(e.target.value)}
           placeholder="Tell Agrova what happened…"
-          className="min-h-12 flex-1 rounded-full border border-forest/20 bg-white px-5"
+          className="min-h-12 min-w-0 flex-1 rounded-full border border-forest/20 bg-white px-5"
         />
         <button
           type="button"
@@ -118,7 +118,7 @@ export default function AiChat() {
         >
           🎤
         </button>
-        <button type="submit" disabled={busy} className="label min-h-12 rounded-full bg-forest px-5 text-lime disabled:opacity-50">
+        <button type="submit" disabled={busy} className="label min-h-12 shrink-0 rounded-full bg-forest px-5 text-lime disabled:opacity-50">
           Send
         </button>
       </form>

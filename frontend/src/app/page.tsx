@@ -32,7 +32,7 @@ export default function Landing() {
         <Logo />
         <nav className="label hidden items-center gap-6 md:flex" aria-label="Main">
           <a href="#how">How it works</a>
-          <a href="#language">Pidgin</a>
+          <a href="#language">Language</a>
           <a href="#features">Features</a>
         </nav>
         <Button href="/app" variant="forest" className="!min-h-9 !px-4">
@@ -41,7 +41,7 @@ export default function Landing() {
       </header>
 
       {/* Hero */}
-      <section className="relative isolate grid min-h-[calc(100dvh-60px)] overflow-hidden bg-forest text-white md:grid-cols-2">
+      <section className="relative isolate grid min-h-[calc(100dvh-60px)] grid-cols-1 overflow-hidden bg-forest text-white md:grid-cols-2">
         <HeroVideo />
         <div className="relative flex flex-col justify-between gap-16 p-6 md:p-10">
           <h1 className="h-display text-[2.5rem] sm:text-5xl lg:text-6xl">
@@ -82,15 +82,15 @@ export default function Landing() {
             <Bubble who="you" delay={2800}>Yes.</Bubble>
             <Bubble who="agrova" delay={3600}>Done. Added to your farm records.</Bubble>
           </div>
-          <dl className="relative mx-auto grid w-full max-w-sm grid-cols-2 gap-4 text-sm">
+          <dl className="relative mx-auto grid w-full max-w-sm grid-cols-2 gap-6 text-sm">
             <div>
-              <dt className="font-mono text-lime">[01]</dt>
-              <dd className="font-bold">Voice + Pidgin</dd>
+              <dt className="mb-2 font-mono text-lime">[01]</dt>
+              <dd className="mb-1 font-bold">Voice + Pidgin</dd>
               <dd className="opacity-80">Speak the way you speak</dd>
             </div>
             <div>
-              <dt className="font-mono text-lime">[02]</dt>
-              <dd className="font-bold">App + WhatsApp</dd>
+              <dt className="mb-2 font-mono text-lime">[02]</dt>
+              <dd className="mb-1 font-bold">App + WhatsApp</dd>
               <dd className="opacity-80">One farm database</dd>
             </div>
           </dl>
