@@ -4,12 +4,15 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Logo } from "@/components/ui";
 
+// `primary` items also appear in the phone's bottom bar (max 5 so it stays readable).
+// Everything shows in the desktop sidebar.
 const items = [
-  { href: "/app", label: "Home" },
-  { href: "/app/ai", label: "AI" },
-  { href: "/app/livestock", label: "Livestock" },
-  { href: "/app/finance", label: "Finance" },
-  { href: "/app/alerts", label: "Alerts" },
+  { href: "/app", label: "Home", primary: true },
+  { href: "/app/ai", label: "AI", primary: true },
+  { href: "/app/livestock", label: "Livestock", primary: true },
+  { href: "/app/health", label: "Health", primary: false },
+  { href: "/app/finance", label: "Finance", primary: true },
+  { href: "/app/alerts", label: "Alerts", primary: true },
 ];
 
 function useActive() {
@@ -26,7 +29,7 @@ export function BottomNav() {
       className="fixed inset-x-0 bottom-0 z-30 border-t border-forest/15 bg-forest px-2 pt-2 pb-[max(0.5rem,env(safe-area-inset-bottom))] lg:hidden"
     >
       <ul className="mx-auto grid max-w-xl grid-cols-5">
-        {items.map((i) => {
+        {items.filter((i) => i.primary).map((i) => {
           const active = isActive(i.href);
           return (
             <li key={i.href}>

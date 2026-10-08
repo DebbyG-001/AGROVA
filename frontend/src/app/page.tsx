@@ -35,7 +35,7 @@ export default function Landing() {
           <a href="#language">Language</a>
           <a href="#features">Features</a>
         </nav>
-        <Button href="/app" variant="forest" className="!min-h-9 !px-4">
+        <Button href="/onboarding" variant="forest" className="!min-h-9 !px-4">
           Start your farm
         </Button>
       </header>
@@ -62,7 +62,7 @@ export default function Landing() {
               </p>
             </div>
             <div className="flex shrink-0 flex-col gap-3">
-              <Button href="/app" className="!min-h-14 !px-9 !text-base whitespace-nowrap">
+              <Button href="/onboarding" className="!min-h-14 !px-9 !text-base whitespace-nowrap">
                 Start your farm
               </Button>
               <Button href="#how" variant="outlineLight" className="!min-h-14 !px-9 !text-base whitespace-nowrap">
@@ -156,7 +156,7 @@ export default function Landing() {
         <h2 className="h-display mx-auto mb-6 max-w-2xl text-3xl md:text-4xl">
           Tell Agrova what happened on your farm today
         </h2>
-        <Button href="/app" variant="forest">
+        <Button href="/onboarding" variant="forest">
           Start your farm
         </Button>
       </section>

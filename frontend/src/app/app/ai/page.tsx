@@ -3,7 +3,8 @@
 import { useEffect, useRef, useState } from "react";
 import { Button } from "@/components/ui";
 import { quickActions } from "@/lib/demo-data";
-import { sendToAgent, type Proposal } from "@/services/agent";
+import { ApiError } from "@/lib/api";
+import { isDemoAgent, sendToAgent, type Proposal } from "@/services/agent";
 
 type Msg = { id: number; who: "you" | "agrova"; text: string; proposal?: Proposal; resolved?: boolean };
 
@@ -15,6 +16,7 @@ export default function AiChat() {
   const [busy, setBusy] = useState(false);
   const end = useRef<HTMLDivElement>(null);
   const nextId = useRef(1);
+  const sessionId = useRef("");
 
   useEffect(() => {
     end.current?.scrollIntoView({ behavior: "smooth" });
@@ -22,25 +24,45 @@ export default function AiChat() {
 
   const push = (m: Omit<Msg, "id">) => setMsgs((p) => [...p, { ...m, id: nextId.current++ }]);
 
-  async function send(text: string) {
-    const t = text.trim();
-    if (!t || busy) return;
-    setInput("");
-    push({ who: "you", text: t });
+  // One conversation per page visit; the server uses this id to remember earlier messages.
+  const session = () => (sessionId.current ||= crypto.randomUUID());
+
+  /** Ask the agent and show its reply (or a plain error). */
+  async function ask(message: string) {
     setBusy(true);
     try {
-      const r = await sendToAgent(t);
+      const r = await sendToAgent(message, session());
       push({ who: "agrova", text: r.text, proposal: r.proposal });
-    } catch {
-      push({ who: "agrova", text: "Something went wrong. Please try again." });
+    } catch (e) {
+      push({
+        who: "agrova",
+        text: e instanceof ApiError ? e.message : "Something went wrong. Please try again.",
+      });
     } finally {
       setBusy(false);
     }
   }
 
-  function resolve(id: number, ok: boolean) {
+  async function send(text: string) {
+    const t = text.trim();
+    if (!t || busy) return;
+    setInput("");
+    push({ who: "you", text: t });
+    await ask(t);
+  }
+
+  async function resolve(id: number, ok: boolean) {
     setMsgs((p) => p.map((m) => (m.id === id ? { ...m, resolved: true } : m)));
-    push({ who: "agrova", text: ok ? "Confirmed. (Demo mode: nothing is stored until the backend is connected.)" : "Okay, I did not save it." });
+    if (isDemoAgent) {
+      push({
+        who: "agrova",
+        text: ok ? "Confirmed. (Demo mode: nothing is stored until a server is connected.)" : "Okay, I did not save it.",
+      });
+      return;
+    }
+    // With a real server, confirming is just another chat message in the same session.
+    push({ who: "you", text: ok ? "Yes" : "No" });
+    await ask(ok ? "Yes" : "No");
   }
 
   return (
@@ -48,6 +70,11 @@ export default function AiChat() {
       <div className="mb-3">
         <h1 className="h-display text-3xl lg:text-5xl">Agro AI</h1>
         <p className="label mt-2 opacity-70">Your farm companion</p>
+        {isDemoAgent && (
+          <p className="mt-3 inline-block rounded-full bg-lime px-4 py-1.5 text-sm">
+            Demo mode: no server connected, so nothing is saved.
+          </p>
+        )}
       </div>
 
       <div className="flex-1 space-y-3 overflow-y-auto" role="log" aria-live="polite">

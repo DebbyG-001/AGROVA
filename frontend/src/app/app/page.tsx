@@ -66,6 +66,17 @@ export default function Dashboard() {
         </Card>
       </div>
 
+      <Link
+        href="/app/health"
+        className="flex items-center justify-between rounded-2xl border border-forest/10 bg-white p-4 lg:p-5"
+      >
+        <span>
+          <span className="block font-bold">Check animal health</span>
+          <span className="mt-1 block text-sm text-forest/75">Describe symptoms, get a risk level and next steps</span>
+        </span>
+        <span className="label ml-4 shrink-0">Open</span>
+      </Link>
+
       <Button href="/app/ai" variant="forest" className="w-full !min-h-14 !text-base lg:hidden">
         Ask Agro AI
       </Button>
